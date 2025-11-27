@@ -206,7 +206,7 @@
         <div id="SatelliteCenters" class="tab-content">
             <h3>Satellite Centers: Foundational Capacity</h3>
             <p>All Satellite Centers (UoP, RUSL, HCBT, NU, CMU) received an identical, standardized package of equipment to enable localized outreach, initial prototyping, basic experimentation, and robust digital connectivity.</p>
- <img src="YOUR_IMAGE_URL" alt="Map showing partner universities in southern India, Sri Lanka, and Myanmar" class="satellite-map-img" />
+ <img src="https://i.postimg.cc/pTHv6VdB/image.png" alt="Map showing partner universities in southern India, Sri Lanka, and Myanmar" class="satellite-map-img" />
 
             <table>
                 <thead>
